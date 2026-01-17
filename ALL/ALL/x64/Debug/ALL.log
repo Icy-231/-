@@ -1,0 +1,10 @@
+﻿  EchangeInfo.c
+D:\艾馨怡\WUST\C\练习\A explore\ALL\ALL\EchangeInfo.c(76,2): warning C4013: “gets”未定义；假设外部返回 int
+  数据.c
+D:\艾馨怡\WUST\C\练习\A explore\ALL\ALL\数据.c(132,40): warning C4474: printf: 格式字符串中传递的参数太多
+      D:\艾馨怡\WUST\C\练习\A explore\ALL\ALL\数据.c(132,40):
+      占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  
+D:\艾馨怡\WUST\C\练习\A explore\ALL\ALL\数据.c(176,5): warning C4013: “gets”未定义；假设外部返回 int
+  正在生成代码...
+  ALL.vcxproj -> D:\艾馨怡\WUST\C\练习\A explore\ALL\x64\Debug\ALL.exe
